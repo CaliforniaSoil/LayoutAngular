@@ -1,0 +1,17 @@
+#nav {
+    width: 200px;
+    height: 300px;
+    display: inline-block;
+    background-color: lightblue;
+    border: 3px solid;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+button {
+    width: 150px;
+    height: 30px;
+    margin: 5px;
+    text-align: center;
+}
